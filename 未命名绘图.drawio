@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T08:02:12.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.3.1" etag="aSlzN38wCkzCC-U6C7NL" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-01T08:15:57.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="-jRhljYzOqbADfRsYcf8" version="24.3.1" type="github">
   <diagram name="第 1 页" id="5ia42t6_50sHx6lUP8QA">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7gufQ3cnTHNNNhdsDBJf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="550" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="7gufQ3cnTHNNNhdsDBJf-3" value="&lt;font data-sider-select-id=&quot;9114a8cb-8e6f-4699-be4c-9ff1a4f272b0&quot; style=&quot;font-size: 15px;&quot;&gt;TANKBATTLE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="530" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7gufQ3cnTHNNNhdsDBJf-4" value="单人模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7gufQ3cnTHNNNhdsDBJf-5" value="双人模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7gufQ3cnTHNNNhdsDBJf-7" value="首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="122.5" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7gufQ3cnTHNNNhdsDBJf-8" value="对局记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="122.5" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7gufQ3cnTHNNNhdsDBJf-9" value="排行榜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="122.5" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7gufQ3cnTHNNNhdsDBJf-10" value="皮肤商城" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="122.5" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7gufQ3cnTHNNNhdsDBJf-11" value="技能商城" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="122.5" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7gufQ3cnTHNNNhdsDBJf-12" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="122.5" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7gufQ3cnTHNNNhdsDBJf-13" value="LOGO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
